@@ -2,7 +2,8 @@
 Download PDF using Scrapy
 
 
-Creating a Scrapy Project:
+**Creating a Scrapy Project:**
+
 1.scrapy startproject downloading_files
 
 2.cd downloading_files/
@@ -11,7 +12,8 @@ Creating a Scrapy Project:
 
 
 
-Run This project:
+**Run This project:**
+
 1.Download the project locally
 
 2.Navigate to Project Root Directory through terminal
